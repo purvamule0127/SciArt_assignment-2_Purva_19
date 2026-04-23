@@ -2,6 +2,7 @@
 🧪 BIORENDER INFOGRAPHIC PROTOCOL 
 
 Title: Mechanisms of Alzheimer’s Disease Pathogenesis & Prevention
+
 🔷 Step 1: Canvas Setup
 I opened BioRender and created a new figure in landscape orientation (16:9).
 I enabled the grid option to maintain alignment.
